@@ -51,5 +51,5 @@ vector<string> fizzBuzz(int n)
 
 int main()
 {
-    cout << fizzBuzz(15);
+    cout << fizzBuzz(15) << endl;
 }
