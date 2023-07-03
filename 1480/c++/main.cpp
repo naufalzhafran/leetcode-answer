@@ -33,5 +33,5 @@ int main()
     input.push_back(1);
     input.push_back(1);
 
-    cout << runningSum(input);
+    cout << runningSum(input) << endl;
 }

@@ -27,5 +27,5 @@ int main()
         {2, 3, 4},
     };
 
-    cout << maximumWealth(input);
+    cout << maximumWealth(input) << endl;
 };
