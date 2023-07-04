@@ -45,9 +45,9 @@ Output: 12
 
 ## Solution
 
-The solution is pretty straightforward, we just loop the number and follow the steps and rules until we get `0` while counting the number of steps. For this case, we can use bitwise operation because there are only 2 operation that can be replace with bitwise operataion
+The solution is pretty straightforward, we just loop the number and follow the steps and rules until we get `0` while counting the number of steps. For this case, we can use the bitwise operation because there are only 2 operations that can be replaced with the bitwise operation
 
-The division by 2 can be subtituted with bitwise right-shift by 1 and the subtraction by 1 can be subtitute with bitwise XOR by 1.
+The division by 2 can be substituted with bitwise right-shift by 1 and the subtraction by 1 can be substituted with bitwise XOR by 1.
 
 **Python Solution**
 
